@@ -1,6 +1,6 @@
-# template-with-eslint
+# Quotes Manager Project
 
-> Template webpack VueJs project with eslint
+> Quotes project made for VueJS course
 
 ## Build Setup
 
